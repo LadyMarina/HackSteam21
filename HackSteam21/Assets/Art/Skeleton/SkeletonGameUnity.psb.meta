@@ -744,14 +744,14 @@ ScriptedImporter:
     spriteName: 
     isGroup: 1
     parentIndex: -1
-    spriteID: 
+    spriteID: 00000000000000000000000000000000
     layerID: 19
     mosaicPosition: {x: 0, y: 0}
   - name: Hand
     spriteName: 
     isGroup: 1
     parentIndex: 2
-    spriteID: 
+    spriteID: 00000000000000000000000000000000
     layerID: 11
     mosaicPosition: {x: 0, y: 0}
   - name: <Path>
@@ -828,7 +828,7 @@ ScriptedImporter:
     spriteName: 
     isGroup: 1
     parentIndex: 2
-    spriteID: 
+    spriteID: 00000000000000000000000000000000
     layerID: 16
     mosaicPosition: {x: 0, y: 0}
   - name: Capa 5
@@ -912,14 +912,14 @@ ScriptedImporter:
     spriteName: 
     isGroup: 1
     parentIndex: -1
-    spriteID: 
+    spriteID: 00000000000000000000000000000000
     layerID: 27
     mosaicPosition: {x: 0, y: 0}
   - name: Backgrou7nd
     spriteName: 
     isGroup: 1
     parentIndex: -1
-    spriteID: 
+    spriteID: 00000000000000000000000000000000
     layerID: 22
     mosaicPosition: {x: 0, y: 0}
   - name: option1
