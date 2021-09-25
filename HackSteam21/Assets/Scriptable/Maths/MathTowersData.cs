@@ -12,15 +12,20 @@ namespace HackStem
 
         public MathTowersCombination GetCombination(int id)
         {
-            if (CheckID(id))
+            if (!CheckID(id))
                 return null;
 
             return _mathTowersCombinations[id];
         }
 
+        public int GetNumberOfCombinations()
+        {
+            return _mathTowersCombinations.Count;
+        }
+
         public string GetGoodOperationBySlot(int slot, int id)
         {
-            if (CheckID(id))
+            if (!CheckID(id))
                 return null;
             
             switch (slot)
