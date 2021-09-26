@@ -3,6 +3,7 @@
 This repository is part of our participation in [HackStem21](https://spanishstartups.es/uncategorized/hackstem-2021/) organized by SiemensGamesa.
 
 Here is our [video](https://www.youtube.com/watch?v=4Ryr5zdVZnk&ab_channel=JoanStark) presentation.
+
 Here is a [link](https://www.figma.com/proto/LINZUx5SO6snluzmuAm0OI/Project?node-id=34%3A15&scaling=scale-down&page-id=0%3A1&starting-point-node-id=34%3A15&show-proto-sidebar=1
 ) to prototype (using Figma).
 
