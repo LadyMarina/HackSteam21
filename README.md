@@ -8,5 +8,7 @@ Here is a [link](https://www.figma.com/proto/LINZUx5SO6snluzmuAm0OI/Project?node
 All art, code, design and idea was made by us in a timestamp of 50 hours.
 
 Code by: Marina Chavarria & Joan Ortiga
+
 App design by: Pol Serra, Marc Galdo, Marina Chavarria, Joan Ortiga
+
 Art by:  Marina Chavarria, Pol Serra, Marc Galdo, Joan Ortiga
