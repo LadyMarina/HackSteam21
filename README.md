@@ -1,6 +1,8 @@
 # HackSteam21
 
-This repository is part of our participation in [HackStem21](https://spanishstartups.es/uncategorized/hackstem-2021/) organized by SiemensGamesa.
+In this Hackathon we elaborated an app for students and teachers to improve the way they learn.
+
+This repository is games part of our participation in [HackStem21](https://spanishstartups.es/uncategorized/hackstem-2021/) organized by SiemensGamesa.
 
 Here is our [video](https://www.youtube.com/watch?v=4Ryr5zdVZnk&ab_channel=JoanStark) presentation.
 
